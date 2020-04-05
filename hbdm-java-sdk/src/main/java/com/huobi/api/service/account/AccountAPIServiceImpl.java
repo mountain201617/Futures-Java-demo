@@ -18,7 +18,7 @@ public class AccountAPIServiceImpl implements AccountAPIService {
 
     String api_key = ""; // huobi申请的apiKey
     String secret_key = ""; // huobi申请的secretKey
-    String url_prex = "https://api.hbdm.com";
+    String url_prex = "https://api.hbdm.pro";
 
 
     public AccountAPIServiceImpl(String api_key, String secret_key) {
