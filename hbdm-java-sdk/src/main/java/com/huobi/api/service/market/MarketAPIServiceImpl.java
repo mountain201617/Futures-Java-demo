@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class MarketAPIServiceImpl implements MarketAPIService {
 
-    String url_prex = "https://api.hbdm.com";
+    String url_prex = "https://api.hbdm.pro";
 
 
     /**
